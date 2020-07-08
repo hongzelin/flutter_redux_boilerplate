@@ -1,6 +1,6 @@
 # flutter_redux_boilerplate
 
-A Flutter application boilerplate, with Redux included.
+Flutter 结合 redux，作为参考。
 
 ## Motivation
 
